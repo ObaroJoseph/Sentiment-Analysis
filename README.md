@@ -31,7 +31,7 @@ This project involved the integration of various skills:
 - Generation of meaningful interpretations and insights.
 
 ## About Data
-A total collection of 150,000 tweets dating from January 31st and February 15th,2023  were obtained through the Twitter API using Python Open source library, snsscrape. These tweets were extracted by utilizing search queries corresponding to the official Twitter handles of the prominent presidential candidates, namely @PeterObi, @Atiku, and @OfficialAbat. For avoidance of bias, 50,000 tweets were mined from each handles. The data contains 11 columns and the description is given below. 
+A total collection of 150,000 tweets dating from January 31st and February 15th,2023  were obtained through the Twitter API using Python Open source library, snscrape. These tweets were extracted by utilizing search queries corresponding to the official Twitter handles of the prominent presidential candidates, namely @PeterObi, @Atiku, and @OfficialAbat. For avoidance of bias, 50,000 tweets were mined from each handles. The data contains 11 columns and the description is given below. 
 
 Variable Names  |  Description
 :--------------:|:---------------------------------------------------:
@@ -61,7 +61,7 @@ The steps of this project consists of the following sections:
 
 ## Summary of  Implmentation
 
-Data was extracted from Twitter API using the python library, snsscrape, and exploratory data analysis was  carried out on the data to identify hidden trends and patterns. The tweets will be pre-processed by removing irrelevant data to make it suitable for sentiment analysis.
+Data was extracted from Twitter API using the python library, snscrape, and exploratory data analysis was  carried out on the data to identify hidden trends and patterns. The tweets will be pre-processed by removing irrelevant data to make it suitable for sentiment analysis.
 Sentiment analysis task will be conducted on the pre-processed tweets utilising Natural Language Processing (NLP) libraries, VADER  to classify the tweets as positive, negative, or neutral. The results will be presented through charts and Word clouds to facilitate comprehension and communication of the findings.
 
 This project contains 3 python notebooks which are: 
