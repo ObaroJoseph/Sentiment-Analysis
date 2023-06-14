@@ -136,11 +136,15 @@ The file, contains 3 python notebooks:
      tweets generated more quotes and replies, sparking discussions and direct responses. Bola Tinubu's tweets had the lowest engagement, suggesting lower 
      attention or interest, potentially due to various factors such as tweet content or campaign strategy. 
      
-  4. Tweets related to Peter Obi revealed that most positive tweets highlighted themes such as hope, love, vote, and support for him. On the other hand,        
-     negative tweets mostly centred around the term "Igbo,” because he is from Igbo ethnicity
+  4. Based on sentiment analysis, positive tweets about Peter Obi mention words such as "support," "bless," and "best," indicating strong support from his   
+     followers. Negative tweets mention "Igbo," "stop," and "problem," suggesting concerns about his Igbo ethnicity potentially posing challenges. Bola Tinubu  
+     receives positive tweets mentioning "Lagos," "hope," and "support," likely highlighting his previous role as governor of Lagos State. Negative sentiment 
+     tweets include terms like "failed," "evil," and "nothing," reflecting how his opponents perceive him. As for Atiku Abubakar, positive tweets mention "vote" 
+     and "love," while negative sentiment tweets include terms like "problem" and "thief."
+  
    
-   
-   
+   In conclusion, using sentiment analysis on twitter data regarding the 2023 presidential election has yielded significant insights into public opinions towards 
+   the presidential candidates. 
    
    
    
