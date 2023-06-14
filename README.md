@@ -75,7 +75,7 @@ The file, contains 3 python notebooks:
 ## Results and Visualization
 
 
-- **Peter Obi**
+### - Peter Obi
 
  ![](Polarity_distribution_peter_obi.png)
  
@@ -87,7 +87,7 @@ The file, contains 3 python notebooks:
 
 
 
-- **Bola Tinubu**
+### - Bola Tinubu
 
 ![](Polarity_distribution_Bola_Tinubu.png)
 
@@ -99,7 +99,7 @@ The file, contains 3 python notebooks:
 
 
 
-- **Atiku Abubarkar**
+### Atiku Abubarkar
 ![](Polarity_distribution_Atiku_Abubakar)
 
 
