@@ -52,10 +52,11 @@ The project consists of the following sections:
 ## Analysis and Visualization
 
 
+- **Peter Obi**
 
-
-
-
+Positive Word Cloud                                                                    Negative Word Cloud
+:--------------------------------------------------:|:---------------------------------------------------------------------:
+![](positive word cloud Peter Obi.jpg)                                             ![](negative word cloud Peter Obi.jpg)
 
 
 
