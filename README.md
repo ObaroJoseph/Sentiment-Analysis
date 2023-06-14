@@ -66,6 +66,13 @@ The project consists of the following sections:
 
 - **Bola Tinubu**
 
+![](Polarity_distribution_Bola_Tinubu.png)
+
+
+ 
+ Positive Sentiment Word Cloud              |    Negative Sentiment Word Cloud
+:------------------------------------------:|:----------------------------------------------: 
+   ![](positive_word_cloud_Bola_Tinubu.png) |   ![](negative_word_cloud_Bola_Tinubu.png)             
 
 
 
