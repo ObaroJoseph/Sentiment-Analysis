@@ -69,7 +69,8 @@ Sentiment analysis task will be conducted on the pre-processed tweets utilising 
 The file, contains 3 python notebooks: 
 
 **[Data analysis](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Data%20analysis.ipynb)** which contains Data Exploration, Visualizations and Observations.
-**[]()**
+
+**[Sentiment Analysis](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Sentiment%20Analysis.ipynb)** which contains Feature Engineering, Text Preprocessing and Sentiment Analysis implementation. 
 
 ## Results and Visualization
 
