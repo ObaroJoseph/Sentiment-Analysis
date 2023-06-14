@@ -48,8 +48,12 @@ The project consists of the following sections:
 6. Text Preprocessing
 7. Sentiment Analysis
 
+## Summary of  Implmentation**
 
-## Analysis and Visualization
+Data was extracted from Twitter API using the python library, snsscrape, and exploratory data analysis was  carried out on the data to identify hidden trends and patterns. The tweets will be pre-processed by removing irrelevant data to make it suitable for sentiment analysis.
+Sentiment analysis task will be conducted on the pre-processed tweets utilising Natural Language Processing (NLP) libraries, VADER  to classify the tweets as positive, negative, or neutral. The results will be presented through charts and Word clouds to facilitate comprehension and communication of the findings.
+
+## Results and Visualization
 
 
 - **Peter Obi**
@@ -76,10 +80,44 @@ The project consists of the following sections:
 
 
 
+- **Atiku Abubarkar**
+![](Polarity_distribution_Atiku_Abubakar)
 
 
-
-
+ Positive Sentiment Word Cloud                 |    Negative Sentiment Word Cloud
+:---------------------------------------------:|:----------------------------------------------: 
+   ![](positive_word_cloud_Atiku_Abubakar.png) |   ![](negative_word_cloud_Atiku_Abubakar.png) 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
 
 
