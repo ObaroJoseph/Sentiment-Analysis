@@ -6,8 +6,6 @@ This project aims to conduct exploratory analysis and sentiment analysis, utiliz
 
 ## Introduction
 
-* ### **[Sentiment Analysis Using Twitter Data Regarding the 2023 Presidential Elections](https://github.com/ObaroJoseph/Data-Science-Projects/blob/main/Sentiment_Analysis_Nigeria_2023_Elections.ipynb)**
-
 The 2023 presidential elections will exert a profound influence on the political landscape of Nigeria. The leading Presidential candidates are Peter Obi, Bola Tinubu and Atiku Abubakar. Accurately gauging public sentiment toward the political candidates is crucial for effectively measuring public opinion. In this project, a comprehensive analysis of Twitter data was undertaken to extract valuable insights and uncover hidden patterns that can provide political candidates with actionable knowledge that can significantly enhance their prospects of winning the election.
 
 
@@ -67,6 +65,8 @@ Data was extracted from Twitter API using the python library, snsscrape, and exp
 Sentiment analysis task will be conducted on the pre-processed tweets utilising Natural Language Processing (NLP) libraries, VADER  to classify the tweets as positive, negative, or neutral. The results will be presented through charts and Word clouds to facilitate comprehension and communication of the findings.
 
 The file, contains 3 python notebooks: 
+
+**[Data Extraction](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Data%20Extraction.ipynb)** contains how the data was extracted from Twitter API
 
 **[Data analysis](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Data%20analysis.ipynb)** which contains Data Exploration, Visualizations and Observations.
 
