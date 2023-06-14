@@ -58,7 +58,7 @@ The project consists of the following sections:
 
  Positive Word Cloud              |       Negative Word Cloud
 
-![](positive word cloud Peter Obi.PNG)                 
+![](positive word cloud Peter Obi.png)                 
 
 
 
