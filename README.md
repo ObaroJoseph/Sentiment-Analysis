@@ -1,5 +1,5 @@
 # Sentiment Analysis on Twitter Data Regarding Nigeria 2023 Presidential Elections
-
+![](elections.jpg)
 This project aims to conduct exploratory analysis and sentiment analysis, utilizing the VADER Approach, on a  dataset extracted from Twitter API.
 
 ## Introduction
