@@ -114,7 +114,7 @@ The file, contains 3 python notebooks:
    ![](positive_word_cloud_Atiku_Abubakar.png) |   ![](negative_word_cloud_Atiku_Abubakar.png) 
    
    
- ## Conclusion and Reccomendation
+ ## Findings and Conclusion. 
  
 1. Tweets associated with Peter Obi had the highest positive polarity score, indicating a relatively more positive sentiment towards him. However, his neutral  
    polarity score was the lowest, suggesting a lack of neutrality in the sentiment. Atiku Abubakar had the highest neutral polarity score, indicating a relatively    more neutral sentiment, and his negative polarity score was the lowest, suggesting a lower negative sentiment. Bola Tinubu received the highest negative       
@@ -135,6 +135,9 @@ The file, contains 3 python notebooks:
   3. Peter Obi's tweets received the highest number of likes and retweets, indicating popularity and resonance among the Twitter community. Atiku Abubakar's   
      tweets generated more quotes and replies, sparking discussions and direct responses. Bola Tinubu's tweets had the lowest engagement, suggesting lower 
      attention or interest, potentially due to various factors such as tweet content or campaign strategy. 
+     
+  4. Tweets related to Peter Obi revealed that most positive tweets highlighted themes such as hope, love, vote, and support for him. On the other hand,        
+     negative tweets mostly centred around the term "Igbo,” because he is from Igbo ethnicity
    
    
    
