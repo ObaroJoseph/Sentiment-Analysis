@@ -54,14 +54,17 @@ The project consists of the following sections:
 
 - **Peter Obi**
 
-
+ ![](Polarity_distribution_peter_obi.png)
+ 
+ 
+ 
  Positive Sentiment Word Cloud             |    Negative Sentiment Word Cloud
 :-----------------------------------------:|:----------------------------------------------: 
    ![](positive_word_cloud_Peter_Obi.png)  |   ![](negative_word_cloud_Peter_Obi.png)             
 
 
 
-
+- **Bola Tinubu**
 
 
 
