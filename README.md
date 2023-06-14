@@ -14,9 +14,9 @@ The 2023 presidential elections will exert a profound influence on the political
 
 ## Problem Statement
 1. What is the overall sentiment of Twitter users towards the political candidates?
-2.  What significant trends and insights can be used by the political candidates?
-3.  Who has the overall best impression on Twitter?
-4.  What were the most associated positive and negative keywords associated with each presidential candidate?
+2. What significant trends and insights can be used by the political candidates?
+3. Who has the overall best impression on Twitter?
+4. What were the most associated positive and negative keywords associated with each presidential candidate?
 
 
 
@@ -76,6 +76,7 @@ The file, contains 3 python notebooks:
 
 
 ### - Peter Obi
+![](Peter_Obi.jpg)
 
  ![](Polarity_distribution_peter_obi.png)
  
@@ -89,6 +90,8 @@ The file, contains 3 python notebooks:
 
 ### - Bola Tinubu
 
+![](Bola_Tinubu.jpg)
+
 ![](Polarity_distribution_Bola_Tinubu.png)
 
 
@@ -100,7 +103,10 @@ The file, contains 3 python notebooks:
 
 
 ### Atiku Abubarkar
-![](Polarity_distribution_Atiku_Abubakar)
+
+![](Atiku_Abubakar.jpg)
+
+![](Polarity_distribution_Atiku_Abubakar.png)
 
 
  Positive Sentiment Word Cloud                 |    Negative Sentiment Word Cloud
@@ -108,14 +114,27 @@ The file, contains 3 python notebooks:
    ![](positive_word_cloud_Atiku_Abubakar.png) |   ![](negative_word_cloud_Atiku_Abubakar.png) 
    
    
+ ## Conclusion and Reccomendation
+ 
+1. Tweets associated with Peter Obi had the highest positive polarity score, indicating a relatively more positive sentiment towards him. However, his neutral  
+   polarity score was the lowest, suggesting a lack of neutrality in the sentiment. Atiku Abubakar had the highest neutral polarity score, indicating a relatively    more neutral sentiment, and his negative polarity score was the lowest, suggesting a lower negative sentiment. Bola Tinubu received the highest negative       
+   polarity scores, indicating a relatively higher negative sentiment towards him, while his positive polarity score was the least among the candidates, 
+   suggesting a lower positive sentiment.
+   
+2. An exploratory analysis of tweets revealed that the majority of tweets (68.32%) were generated from Android phones, followed by iPhones (25.79%). Atiku   
+   Abubakar had the highest number of users tweeting from Android devices, while Bola Tinubu and Peter Obi had a more balanced usage of both Android and iPhone 
+   devices among their supporters.
+
+   Peak engagement for Peter Obi's tweets occurred at 09:00 and 18:00, for Bola Tinubu at 09:00 and 20:00, and for Atiku Abubakar at 09:00 and 13:00.
+
+   Despite posting on only 3 out of 16 days, Peter Obi had the highest tweet engagement per day, indicating substantial engagement during those limited days. Bola    Tinubu posted tweets on 7 out of 16 days, maintaining a consistent presence with relatively lower engagement than Peter Obi but higher than Atiku Abubakar.
+
+   Atiku Abubakar demonstrated consistent Twitter presence by tweeting every day, but his engagement count remained lower compared to Peter Obi and Bola Tinubu,      suggesting his core supporters may not be as active or vocal on the platform..
    
    
-   
-   
-   
-   
-   
-   
+  3. Peter Obi's tweets received the highest number of likes and retweets, indicating popularity and resonance among the Twitter community. Atiku Abubakar's   
+     tweets generated more quotes and replies, sparking discussions and direct responses. Bola Tinubu's tweets had the lowest engagement, suggesting lower 
+     attention or interest, potentially due to various factors such as tweet content or campaign strategy. 
    
    
    
