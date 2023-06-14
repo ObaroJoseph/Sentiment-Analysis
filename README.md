@@ -61,12 +61,15 @@ The steps of this project consists of the following sections:
 6. Text Preprocessing
 7. Sentiment Analysis
 
-## Summary of  Implmentation**
+## Summary of  Implmentation
 
 Data was extracted from Twitter API using the python library, snsscrape, and exploratory data analysis was  carried out on the data to identify hidden trends and patterns. The tweets will be pre-processed by removing irrelevant data to make it suitable for sentiment analysis.
 Sentiment analysis task will be conducted on the pre-processed tweets utilising Natural Language Processing (NLP) libraries, VADER  to classify the tweets as positive, negative, or neutral. The results will be presented through charts and Word clouds to facilitate comprehension and communication of the findings.
 
-The file, contains 3 python notebooks, **[Data analysis](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Data%20analysis.ipynb)** which contains Data Exploration, Visualizations and Observations. 
+The file, contains 3 python notebooks: 
+
+**[Data analysis](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Data%20analysis.ipynb)** which contains Data Exploration, Visualizations and Observations.
+**[]()**
 
 ## Results and Visualization
 
