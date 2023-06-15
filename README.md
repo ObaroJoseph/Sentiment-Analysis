@@ -113,6 +113,13 @@ This project contains 3 python notebooks which are:
 :---------------------------------------------:|:----------------------------------------------: 
    ![](positive_word_cloud_Atiku_Abubakar.png) |   ![](negative_word_cloud_Atiku_Abubakar.png) 
    
+
+## Summary of Sentiment Analysis
+
+
+![](summaru.png)
+
+
    
  ## Findings and Conclusion. 
  
