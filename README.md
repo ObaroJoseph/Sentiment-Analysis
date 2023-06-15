@@ -70,7 +70,7 @@ This project contains 3 python notebooks which are:
 
 **[Data analysis](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Data%20analysis.ipynb)** which contains Data Exploration, Visualizations and Observations.
 
-**[Feature_engineering_Sentiment](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Sentiment%20Analysis.ipynb)** which contains Feature Engineering, Text Preprocessing and Sentiment Analysis implementation. 
+**[Feature_engineering_Sentiment](https://github.com/ObaroJoseph/Sentiment-Analysis/blob/main/Feature_engineering_%20Sentiment%20Analysis.ipynb)** which contains Feature Engineering, Text Preprocessing and Sentiment Analysis implementation. 
 
 ## Results and Visualization
 
