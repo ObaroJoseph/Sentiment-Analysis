@@ -1,5 +1,5 @@
 # Sentiment Analysis on Twitter Data Regarding Nigeria 2023 Presidential Elections
-![](elections.jpg)
+![](images/elections.jpg)
 
 
 This project aims to conduct exploratory analysis and sentiment analysis, utilizing the VADER Approach, on a  dataset extracted from Twitter API.
@@ -76,48 +76,48 @@ This project contains 3 python notebooks which are:
 
 
 ### - Peter Obi
-![](Peter_Obi.jpg)
+![](images/Peter_Obi.jpg)
 
- ![](Polarity_distribution_peter_obi.png)
+ ![](images/Polarity_distribution_peter_obi.png)
  
  
  
  Positive Sentiment Word Cloud             |    Negative Sentiment Word Cloud
 :-----------------------------------------:|:----------------------------------------------: 
-   ![](positive_word_cloud_Peter_Obi.png)  |   ![](negative_word_cloud_Peter_Obi.png)             
+   ![](images/positive_word_cloud_Peter_Obi.png)  |   ![](images/negative_word_cloud_Peter_Obi.png)             
 
 
 
 ### - Bola Tinubu
 
-![](Bola_Tinubu.jpg)
+![](images/Bola_Tinubu.jpg)
 
-![](Polarity_distribution_Bola_Tinubu.png)
+![](images/Polarity_distribution_Bola_Tinubu.png)
 
 
  
  Positive Sentiment Word Cloud              |    Negative Sentiment Word Cloud
 :------------------------------------------:|:----------------------------------------------: 
-   ![](positive_word_cloud_Bola_Tinubu.png) |   ![](negative_word_cloud_Bola_Tinubu.png)             
+   ![](images/positive_word_cloud_Bola_Tinubu.png) |   ![](images/negative_word_cloud_Bola_Tinubu.png)             
 
 
 
 ### Atiku Abubarkar
 
-![](Atiku_Abubakar.jpg)
+![](images/Atiku_Abubakar.jpg)
 
-![](Polarity_distribution_Atiku_Abubakar.png)
+![](images/Polarity_distribution_Atiku_Abubakar.png)
 
 
  Positive Sentiment Word Cloud                 |    Negative Sentiment Word Cloud
 :---------------------------------------------:|:----------------------------------------------: 
-   ![](positive_word_cloud_Atiku_Abubakar.png) |   ![](negative_word_cloud_Atiku_Abubakar.png) 
+   ![](images/positive_word_cloud_Atiku_Abubakar.png) |   ![](images/negative_word_cloud_Atiku_Abubakar.png) 
    
 
 ## Summary of Sentiment Analysis
 
 
-![](summary.png)
+![](images/summary.png)
 
 
    
